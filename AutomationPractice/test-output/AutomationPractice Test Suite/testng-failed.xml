@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [AutomationPractice Test Suite]">
+  <test name="AutomationPractice Regression Test">
+    <classes>
+      <class name="com.automationpractice.qa.tests.MyStoreHomePageTest"/>
+      <class name="com.automationpractice.qa.tests.ContactUsPageTest"/>
+      <class name="com.automationpractice.qa.tests.CreateAccountPageTest"/>
+    </classes>
+  </test> <!-- AutomationPractice Regression Test -->
+  <test name="AutomationPractice Regression Test(failed)">
+    <classes>
+      <class name="com.automationpractice.qa.tests.MyStoreHomePageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.automationpractice.qa.tests.MyStoreHomePageTest -->
+      <class name="com.automationpractice.qa.tests.ContactUsPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.automationpractice.qa.tests.ContactUsPageTest -->
+      <class name="com.automationpractice.qa.tests.CreateAccountPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="createAccountTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.automationpractice.qa.tests.CreateAccountPageTest -->
+    </classes>
+  </test> <!-- AutomationPractice Regression Test(failed) -->
+</suite> <!-- Failed suite [AutomationPractice Test Suite] -->
