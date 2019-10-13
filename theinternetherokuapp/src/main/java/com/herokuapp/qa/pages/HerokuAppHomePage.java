@@ -4,7 +4,6 @@ import java.util.List;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.Color;
-import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -12,29 +11,7 @@ import com.herokuapp.qa.base.TestBase;
 
 public class HerokuAppHomePage extends TestBase {
 
-	/*@FindBy(xpath = "//h3[contains(text(),'DOM')]")
-	WebElement pageHeader;
-
-	@FindBy(xpath = "//a[@class='button']")
-	WebElement buttonone;
-
-	@FindBy(xpath = "//a[@class='button alert']")
-	WebElement buttontwo;
-
-	@FindBy(xpath = "//a[@class='button success']")
-	WebElement buttonthree;
-
-	@FindBy(xpath = "//div[@class='large-2 columns']")
-	WebElement buttons;
-
-	@FindBy(xpath = "//div[@class='large-10 columns']")
-	WebElement table;
-
-	@FindBy(xpath = "//canvas[@id='F']")
-	WebElement result;
-
-	@FindBy(xpath = "//canvas[@id='canvas']")
-	WebElement Result;*/
+	
 
 	public String validatePageTitle() {
 		return driver.getTitle();
