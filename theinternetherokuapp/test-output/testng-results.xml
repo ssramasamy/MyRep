@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="The Internet herokuapp Test Suite" duration-ms="74619" started-at="2019-10-13T16:08:47Z" finished-at="2019-10-13T16:10:02Z">
+    <groups>
+    </groups>
+    <test name="The Internet herokuapp Regression Test" duration-ms="74619" started-at="2019-10-13T16:08:47Z" finished-at="2019-10-13T16:10:02Z">
+      <class name="com.herokuapp.qa.tests.HerokuAppHomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="setUp" is-config="true" duration-ms="6899" started-at="2019-10-13T17:08:47Z" finished-at="2019-10-13T17:08:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HerokuAppHomePageTitleTest()[pri:1, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="HerokuAppHomePageTitleTest" duration-ms="23" started-at="2019-10-13T17:08:54Z" finished-at="2019-10-13T17:08:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HerokuAppHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="tearDown" is-config="true" duration-ms="696" started-at="2019-10-13T17:08:54Z" finished-at="2019-10-13T17:08:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="setUp" is-config="true" duration-ms="6202" started-at="2019-10-13T17:08:55Z" finished-at="2019-10-13T17:09:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HerokuAppHomePageHeaderTest()[pri:2, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="HerokuAppHomePageHeaderTest" duration-ms="161" started-at="2019-10-13T17:09:01Z" finished-at="2019-10-13T17:09:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HerokuAppHomePageHeaderTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="tearDown" is-config="true" duration-ms="649" started-at="2019-10-13T17:09:01Z" finished-at="2019-10-13T17:09:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="setUp" is-config="true" duration-ms="6203" started-at="2019-10-13T17:09:02Z" finished-at="2019-10-13T17:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyButtonVisibleTest()[pri:3, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="verifyButtonVisibleTest" duration-ms="128" started-at="2019-10-13T17:09:08Z" finished-at="2019-10-13T17:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyButtonVisibleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="tearDown" is-config="true" duration-ms="725" started-at="2019-10-13T17:09:08Z" finished-at="2019-10-13T17:09:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="setUp" is-config="true" duration-ms="5994" started-at="2019-10-13T17:09:09Z" finished-at="2019-10-13T17:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTableHeaderValuesTest()[pri:4, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="verifyTableHeaderValuesTest" duration-ms="36" started-at="2019-10-13T17:09:15Z" finished-at="2019-10-13T17:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTableHeaderValuesTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="tearDown" is-config="true" duration-ms="647" started-at="2019-10-13T17:09:15Z" finished-at="2019-10-13T17:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="setUp" is-config="true" duration-ms="5658" started-at="2019-10-13T17:09:15Z" finished-at="2019-10-13T17:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyButton1ColorTest()[pri:5, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="verifyButton1ColorTest" duration-ms="368" started-at="2019-10-13T17:09:21Z" finished-at="2019-10-13T17:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyButton1ColorTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="tearDown" is-config="true" duration-ms="666" started-at="2019-10-13T17:09:21Z" finished-at="2019-10-13T17:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="setUp" is-config="true" duration-ms="7748" started-at="2019-10-13T17:09:22Z" finished-at="2019-10-13T17:09:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickButtonOneTest()[pri:6, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="clickButtonOneTest" duration-ms="831" started-at="2019-10-13T17:09:30Z" finished-at="2019-10-13T17:09:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickButtonOneTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="tearDown" is-config="true" duration-ms="666" started-at="2019-10-13T17:09:31Z" finished-at="2019-10-13T17:09:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="setUp" is-config="true" duration-ms="5794" started-at="2019-10-13T17:09:31Z" finished-at="2019-10-13T17:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickButtonTwoTest()[pri:7, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="clickButtonTwoTest" duration-ms="975" started-at="2019-10-13T17:09:37Z" finished-at="2019-10-13T17:09:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickButtonTwoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="tearDown" is-config="true" duration-ms="709" started-at="2019-10-13T17:09:38Z" finished-at="2019-10-13T17:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="setUp" is-config="true" duration-ms="8117" started-at="2019-10-13T17:09:39Z" finished-at="2019-10-13T17:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickButtonThreeTest()[pri:8, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="clickButtonThreeTest" duration-ms="538" started-at="2019-10-13T17:09:47Z" finished-at="2019-10-13T17:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickButtonThreeTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="tearDown" is-config="true" duration-ms="666" started-at="2019-10-13T17:09:48Z" finished-at="2019-10-13T17:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="setUp" is-config="true" duration-ms="5735" started-at="2019-10-13T17:09:48Z" finished-at="2019-10-13T17:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyResultTest()[pri:9, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="verifyResultTest" duration-ms="152" started-at="2019-10-13T17:09:54Z" finished-at="2019-10-13T17:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResultTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="tearDown" is-config="true" duration-ms="715" started-at="2019-10-13T17:09:54Z" finished-at="2019-10-13T17:09:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="setUp" is-config="true" duration-ms="6163" started-at="2019-10-13T17:09:55Z" finished-at="2019-10-13T17:10:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyRowsAndColumns()[pri:10, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="verifyRowsAndColumns" duration-ms="45" started-at="2019-10-13T17:10:01Z" finished-at="2019-10-13T17:10:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRowsAndColumns -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.herokuapp.qa.tests.HerokuAppHomePageTest@2f7c7260]" name="tearDown" is-config="true" duration-ms="672" started-at="2019-10-13T17:10:01Z" finished-at="2019-10-13T17:10:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.herokuapp.qa.tests.HerokuAppHomePageTest -->
+    </test> <!-- The Internet herokuapp Regression Test -->
+  </suite> <!-- The Internet herokuapp Test Suite -->
+</testng-results>
